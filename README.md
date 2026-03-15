@@ -42,7 +42,7 @@
 - Agentic AI  
 - Advanced Machine Learning  
 
----
+
 
 
 
@@ -55,4 +55,4 @@
 
 ---
 
-⭐ *Learning, building, and improving every day.*
+⭐ * Exploring AI, building solutions, shaping the future.*
