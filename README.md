@@ -51,8 +51,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/VARSHINI71710
-- LinkedIn: https://www.linkedin.com/in/varshini-shanmugam-d-785a22325/
-
+- LinkedIn: https:https://www.linkedin.com/in/varshini-shanmugam-785a22325/
 ---
 
 ⭐ * Exploring AI, building solutions, shaping the future.*
